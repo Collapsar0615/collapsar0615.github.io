@@ -3,7 +3,7 @@ layout: page
 permalink: /blogs/text/index.html
 title: text
 ---
-### Markdown 语法快速入门
+## Markdown 语法光速入门
 
 #### 段落、字体
 

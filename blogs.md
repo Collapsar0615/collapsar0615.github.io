@@ -12,6 +12,10 @@ title: Blogs
 
 - [text](https://collapsar0615.github.io/blogs/text)<br>
 
+
+- [电动力学](https://collapsar0615.github.io/blogs/dd)<br>
+
+
 ### 2024
 
 - [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
