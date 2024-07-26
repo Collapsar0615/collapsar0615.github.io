@@ -4,15 +4,15 @@ permalink: /notes/index.html
 title: Notes
 ---
 
-# 
-
-## Mathematics
 
 
-## Physics
+### Mathematics
 
 
-## Computer Science & Technology
+### Physics
+
+
+### Computer Science & Technology
 
 ## My Cat
 
