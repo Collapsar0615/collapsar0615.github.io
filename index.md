@@ -8,7 +8,7 @@ layout: page
 
 Here is **Ma Tao (Collapsar, 马涛)**.
 
-The girl next to me is Wang bing-bing.
+The girl on the right is Wang Bingbing,and she is my good friend.
 
 
 
