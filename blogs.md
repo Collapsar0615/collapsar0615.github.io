@@ -10,7 +10,7 @@ title: Blogs
 
 ### 2025
 
-- [text](https://caihanlin.com/blogs/text)<br>
+- [text](https://collapsar0615.github.io/blogs/text)<br>
 
 ### 2024
 
