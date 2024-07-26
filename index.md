@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://collapsar0615.github,io/head.jpg" class="floatpic" width="360" height="480">
+<img src="https://collapsar0615.github,io/head.jpeg" class="floatpic" width="360" height="480">
 
 Here is **Ma Tao (Collapsar, 马涛)**.
 
