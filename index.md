@@ -6,7 +6,9 @@ layout: page
 
  <img src="https://collapsar0615.github.io/images/wangbb.jpg" class="floatpic" width="360" height="480">
 
-Here is **Ma Tao (Collapsar, 马涛)**.The girl next to me is Wang bing bing.She is my ideal type.
+Here is **Ma Tao (Collapsar, 马涛)**.
+
+The girl next to me is Wang bing bing.
 
 
 
