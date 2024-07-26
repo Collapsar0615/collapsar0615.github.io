@@ -55,7 +55,7 @@ $$
             \nabla \times \boldsymbol{B}&=\mu_0 \boldsymbol{j}+\varepsilon_0 \mu_0\dfrac{\partial \boldsymbol{E}}{\partial t}
         \end{aligned}
     \right.
-    $$
+$$
 
 
 #### 代码环境

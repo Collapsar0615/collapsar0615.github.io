@@ -16,8 +16,6 @@ title: Notes
 
 ### My Cat
 
-
-
 <div>
 <img src="/images/cat.JPG">
 </div>
