@@ -14,7 +14,7 @@ title: Notes
 
 ### Computer Science & Technology
 
-## My Cat
+### My Cat
 
 She is my love. Her name is Qbao (Q宝).
 
