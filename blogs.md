@@ -13,7 +13,7 @@ title: Blogs
 - [text](https://collapsar0615.github.io/blogs/text)<br>
 
 
-- [dd](https://collapsar0615.github.io/blogs/dd)<br>
+- [电动力学](https://collapsar0615.github.io/blogs/dd)<br>
 
 
 ### 2024
