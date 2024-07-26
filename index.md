@@ -4,7 +4,11 @@ layout: page
 
 # About Me
 
+<<<<<<< HEAD
  <img src="https://collapsar0615.github.io/images/wangbb.jpg" class="floatpic" width="360" height="480">
+=======
+<img src="https://collapsar0615.github.io/wbb1.jpg" class="floatpic" width="360" height="480">
+>>>>>>> 5b9b110dc1f9e65162170dd6f41028640b0f494b
 
 Here is **Ma Tao (Collapsar, 马涛)**.
 
