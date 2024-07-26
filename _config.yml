@@ -40,6 +40,8 @@ links:
   #  url: /teams/
   - title: Publications
     url: /publications/
+  - title: Notes
+    url: /notes/
   - title: Awards
     url: /awards/
   # - title: Hobbies
