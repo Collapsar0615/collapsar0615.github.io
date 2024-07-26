@@ -16,7 +16,7 @@ title: Notes
 
 ### My Cat
 
-She is my love. Her name is Qbao (Q宝).
+
 
 <div>
 <img src="/images/cat.JPG">

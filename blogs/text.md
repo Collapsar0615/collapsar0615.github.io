@@ -46,14 +46,16 @@ Copy图片,然后Ctrl+Alt+V即可粘贴:
 
 #### 数学公式
 
-\[ \left\{
+$$ 
+\left\{
         \begin{aligned}
             \nabla \cdot \boldsymbol{E}&=\dfrac{\rho}{\varepsilon_0}\\
             \nabla \times \boldsymbol{E}&=-\dfrac{\partial \boldsymbol{B}}{\partial t}\\
             \nabla \cdot \boldsymbol{B}&=0\\
             \nabla \times \boldsymbol{B}&=\mu_0 \boldsymbol{j}+\varepsilon_0 \mu_0\dfrac{\partial \boldsymbol{E}}{\partial t}
         \end{aligned}
-    \right.\]
+    \right.
+    $$
 
 
 #### 代码环境
