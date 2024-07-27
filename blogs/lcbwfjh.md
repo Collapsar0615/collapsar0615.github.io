@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/梁灿彬微分几何入门/index.html
-title: 梁灿彬微分几何入门
+permalink: /blogs/lcbwfjh/index.html
+title: lcbwfjh
 ---
 
 ---
