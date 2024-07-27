@@ -18,10 +18,11 @@ title: Notes
 ## Computer Science & Technology
 
 ---
+
 #### Here is Bing-bing!
 
 <div>
-<img src="/images/WBB.JPG">
+<img src="/images/WBB.jpg">
 </div>
 <br>
 
