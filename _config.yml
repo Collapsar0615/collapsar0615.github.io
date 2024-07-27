@@ -77,7 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: Collapsar
+  shortname: collapsar
 
 #Google Analytics
 google_analytics: G-N7Q0RQGHZ5 # your google analytics
