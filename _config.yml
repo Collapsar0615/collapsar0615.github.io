@@ -79,6 +79,9 @@ kramdown:
 disqus:
   shortname: Collapsar
 
+#Google Analytics
+google_analytics: G-N7Q0RQGHZ5 # your google analytics
+
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
