@@ -39,6 +39,30 @@
 </div>
 <br><br>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script>
+    // 初始化单个用户点击计数
+    if (!localStorage.getItem('user_click_count')) {
+        localStorage.setItem('user_click_count', 0);
+    }
+
+    // 更新用户点击计数
+    function updateUserClickCount() {
+        let count = parseInt(localStorage.getItem('user_click_count'));
+        count += 1;
+        localStorage.setItem('user_click_count', count);
+        document.getElementById('user_click_count').innerText = count;
+    }
+
+    // 页面加载时更新计数
+    document.addEventListener('DOMContentLoaded', function () {
+        updateUserClickCount();
+    });
+</script>
+
+<div>单个用户点击次数: <span id="user_click_count">0</span></div>
+
+
+
 
 
 
