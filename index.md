@@ -25,7 +25,8 @@ The girl on the right is Bing-bing,and she is my good friend.
 ## Research Interests
 
 
-- The theory of direct Dark Matter detection
+- [Eugenio Del Nobile,A hands-on manual on the theory
+of direct Dark Matter detection](https://collapsar0615.github.io/mypaper/literature/2104.12785.pdf )
 
 
 
