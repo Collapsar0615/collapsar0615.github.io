@@ -13,7 +13,8 @@ title: Blogs
 - [text](https://collapsar0615.github.io/blogs/text)<br>
 
 
-- [电动力学](https://collapsar0615.github.io/blogs/dd)<br>
+- [梁灿彬微分几何入门](https://collapsar0615.github.io/blogs/梁灿彬微分几何入门)<br>
+
 
 
 ### 2024
