@@ -16,8 +16,8 @@ The girl on the right is Bing-bing,and she is my good friend.
 
 ## Academic Background
 
-- **Sep 2024 - Future：** Institute of Theoretical Physics，Chinese Academy of Sciences(Theoreical Physics)
-- **Oct 2020 - June 2024:** Nanjing Tech University (BSc, Applied Physics)
+- **Sep 2024 - Future：** Institute of Theoretical Physics,Chinese Academy of Sciences(Theoreical Physics)
+- **Oct 2020 - June 2024:** Nanjing Tech University (BSc,Applied Physics)
 
 
 ---
