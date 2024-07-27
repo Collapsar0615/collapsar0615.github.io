@@ -4,25 +4,6 @@ permalink: /blogs/lcbwfjh/index.html
 title: lcbwfjh
 ---
 
----
-puppeteer:
-  displayHeaderFooter: true
-  headerTemplate: '<span class="pageNumber"></span>'
-  footerTemplate: '
-    <div style="font-size: 15px; margin-left: 20px;">
-    <span class="pageNumber"></span> / 
-    <span class="totalPages"></span>
-    </div>
-    '
----
-<style>
-img{
-    width: 60%;
-    padding-left: 20%;
-}
-</style>
-
-<font face="仓耳明楷">
 
 ## 微分几何入门与广义相对论
 
