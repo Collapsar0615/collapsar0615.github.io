@@ -12,7 +12,7 @@ owner:
   email: matao24@mails.ucas.ac.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  github: GuangLun2000
+  github: https://github.com/Collapsar0615/
   scholar: https://scholar.google.com
   bilibili: 631515568
   researchgate: https://www.researchgate.net
@@ -77,7 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: Collapsar
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
