@@ -8,10 +8,9 @@ title: Blogs
 
 
 
-### 2025
+### 2024
 
-- [text](https://collapsar0615.github.io/blogs/text)<br>
-  
+
 
 
 
