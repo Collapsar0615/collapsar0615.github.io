@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
  <img src="https://collapsar0615.github.io/images/wangbb.jpg" class="floatpic" width="360" height="480">
 
