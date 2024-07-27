@@ -24,8 +24,8 @@ The girl on the right is Bing-bing,and she is my good friend.
 
 ## Research Interests
 
-- Internet of Everything
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+
+- The theory of direct Dark Matter detection
 
 
 
