@@ -23,6 +23,8 @@ title: Notes
 
 - [Markdown光速入门,2023](https://collapsar0615.github.io/blogs/text)<br>
   
+- Git&Github急速入门
+  - [解决.gitignore失效的问题](https://cloud.tencent.com/developer/article/2220223)
 
 ---
 
