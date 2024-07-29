@@ -13,7 +13,7 @@ title: Notes
 
 ## Physics
 
--[梁灿彬,广义相对论,2024.07](https://github.com/Collapsar0615/MyNotes/blob/main/General%20Relativity/main.pdf)
+- [梁灿彬,广义相对论,2024.07](https://github.com/Collapsar0615/MyNotes/blob/main/General%20Relativity/main.pdf)
 - [刘川,电动力学,2024.03](https://collapsar0615.github.io/mypaper/notes/刘川电动力学.pdf)  
 - [汪志诚,热力学与统计物理学,2024.03 ](https://collapsar0615.github.io/mypaper/notes/汪志诚热统.pdf) 
 - [UCAS,811量子力学复习指导,2024.02 ](https://collapsar0615.github.io/mypaper/notes/811.pdf) 
