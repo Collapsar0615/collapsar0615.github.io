@@ -14,14 +14,15 @@ title: Blogs
 
 #### Leave a Message
 
-<br><br>
+
 
 {% include disqus.html %} 
-<br><br>
 
-    <script type="text/javascript" src="//widget.supercounters.com/ssl/map.js"></script>
+<br><br>
+<script type="text/javascript" src="//widget.supercounters.com/ssl/map.js"></script>
     <script type="text/javascript">var sc_map_var = sc_map_var || []; sc_map(1695893, "112288", "ff0000", 40)</script>
     <br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
+
 <br><br>
     <script type="text/javascript" src="//widget.supercounters.com/ssl/vt.js"></script>
     <script
