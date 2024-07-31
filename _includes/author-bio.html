@@ -37,7 +37,97 @@
     <br>
     <div id="busuanzi_container_site_uv">Total visitors: <span id="busuanzi_value_site_uv"></span></div>
 </div>
-<br><br>
+<br>
+
+
+
+
+    <!-- Your page content goes here -->
+
+    <!-- Play button for background music -->
+    <button id="play-button">Play Background Music</button>
+
+    <!-- Audio player for background music -->
+    <audio id="background-music" loop>
+        <source src="wzj.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+
+    <script>
+        document.getElementById('play-button').addEventListener('click', function () {
+            const audio = document.getElementById('background-music');
+            audio.play();
+            this.style.display = 'none'; // Hide the play button after clicking
+        });
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <br><br>
 <script type="text/javascript" src="//widget.supercounters.com/ssl/online_t.js"></script>
