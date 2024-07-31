@@ -18,6 +18,12 @@ title: Blogs
     	<li class="poster-item"><a href="#"><img src="1.jpg" width="100%" height="100%"></a></li>
         <li class="poster-item"><a href="#"><img src="2.jpg" width="100%" height="100%"></a></li>
         <li class="poster-item"><a href="#"><img src="3.jpg" width="100%" height="100%"></a></li>
+        <li class="poster-item"><a href="#"><img src="4.jpg" width="100%" height="100%"></a></li>
+        <li class="poster-item"><a href="#"><img src="5.jpg" width="100%" height="100%"></a></li>
+        <li class="poster-item"><a href="#"><img src="2.jpg" width="100%" height="100%"></a></li>
+        <li class="poster-item"><a href="#"><img src="3.jpg" width="100%" height="100%"></a></li>
+        <li class="poster-item"><a href="#"><img src="4.jpg" width="100%" height="100%"></a></li>
+        <li class="poster-item"><a href="#"><img src="5.jpg" width="100%" height="100%"></a></li>
     </ul>
     <!-- 下一张按钮-->
     <div class="poster-btn poster-next-btn"></div>
