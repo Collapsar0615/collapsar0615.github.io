@@ -23,9 +23,6 @@ title: Blogs
     <div class="carousel-item">
       <img src="{{ '/images/2.jpg' | relative_url }}" alt="Image 2">
     </div>
-    <div class="carousel-item">
-      <img src="{{ '/images/image3.jpg' | relative_url }}" alt="Image 3">
-    </div>
   </div>
 
   <!-- Left and right controls -->
