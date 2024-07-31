@@ -10,7 +10,7 @@ title: Blogs
 
 #### Leave a Message
 
-<p>wzj.mp3</p>
+[MUSIC](D:\Github\Collapsar0615.github.io\wzj.mp3)
 
 {% include disqus.html %} 
 
