@@ -3,7 +3,7 @@ layout: page
 permalink: /blogs/index.html
 title: Blogs
 
-<p>https://collapsar0615.github.io/wzj.mp3</p>
+
 ### 2024
 
 ---
