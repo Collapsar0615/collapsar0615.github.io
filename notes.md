@@ -2,6 +2,7 @@
 layout: page
 permalink: /notes/index.html
 title: Notes
+date: 2024-08-01 10:54 -0000
 ---
 
 
