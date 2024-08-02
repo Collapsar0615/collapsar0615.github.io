@@ -50,7 +50,7 @@ of direct Dark Matter detection](https://collapsar0615.github.io/mypaper/literat
         <figure class="wp-block-pullquote">
           <blockquote>
             <p>并非所有流浪者都迷失了自我。</p>
-            <cite>J.R.R.TOLKIEN</cite>
+            <cite>——J.R.R.TOLKIEN</cite>
           </blockquote>
         </figure>
       </div>
