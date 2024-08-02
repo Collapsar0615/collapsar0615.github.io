@@ -50,7 +50,7 @@ date: 2024-08-01 10:54 -0000
 
 
 
-##### Git&Github急速入门
+##### Git & Github
 
 - [解决.gitignore失效的问题](https://cloud.tencent.com/developer/article/2220223)
 
