@@ -24,6 +24,30 @@ date: 2024-08-01 10:54 -0000
 - [UCAS,811量子力学复习指导,2024.02 ](https://collapsar0615.github.io/mypaper/notes/811.pdf) 
 - [林宗涵,热力学与统计物理学,2023.02 ](https://collapsar0615.github.io/mypaper/notes/林宗涵热统.pdf)  
 
+<table>
+    <tr>
+        <td>
+
+### 列 1
+
+- 项目 1
+- 项目 2
+- 项目 3
+
+        </td>
+        <td>
+
+### 列 2
+
+- 项目 A
+- 项目 B
+- 项目 C
+
+        </td>
+    </tr>
+</table>
+
+
 
 ## Computer Science & Technology
 
