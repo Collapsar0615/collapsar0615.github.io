@@ -45,7 +45,7 @@ of direct Dark Matter detection](https://collapsar0615.github.io/mypaper/literat
   <div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
     <div style="height:20px;" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
 
-    <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
       <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:67%;">
         <figure class="wp-block-pullquote">
           <blockquote>
@@ -56,7 +56,7 @@ of direct Dark Matter detection](https://collapsar0615.github.io/mypaper/literat
         </figure>
       </div>
 
-      <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33%;"></div>
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33%;"></div>
     </div>
 
     <p></p>
