@@ -22,7 +22,7 @@ date: 2024-08-01 10:54 -0000
 
 - 余钊焕,量子场论讲义,2024.07
 
- ### General Relativity & Cosmology
+### General Relativity & Cosmology
 
 - [梁灿彬,广义相对论,2024.07](https://github.com/Collapsar0615/MyNotes/blob/main/General%20Relativity/main.pdf)
 
