@@ -12,6 +12,21 @@ date: 2024-08-01 10:54 -0000
 - [梁灿彬,微分几何入门,2024.07](https://collapsar0615.github.io/mypaper/notes/梁灿彬微分几何入门.pdf)
 - [UCAS,601高等数学(甲)复习指导,2023.12 ](https://collapsar0615.github.io/mypaper/notes/601.pdf)
 
+<div id="secondary" class="widget-area">
+  <section id="pages-5" class="widget widget_pages">
+    <h2 class="widget-title"></h2>
+    <nav aria-label="页面">
+      <ul>
+        <li class="page_item page-item-633">
+          <a href="(https://collapsar0615.github.io/mypaper/notes/601.pdf">UCAS,601高等数学(甲)复习指导 下载</a>
+        </li>
+        <!-- 其他列表项 -->
+      </ul>
+    </nav>
+  </section>
+</div>
+---
+
 ## Physics
 
 - 余钊焕,量子场论讲义,2024.07
