@@ -5,7 +5,7 @@ title: Notes
 date: 2024-08-01 10:54 -0000
 ---
 
-> Here are some notes I took while or before studying certain courses, available in both $\LaTeX$ and Markdown versions. If they can help you in your studies, I would be very happy! :)
+> Here are some notes I took while or before studying certain courses, available in both $\LaTeX$ and Markdown versions. If they can help you in your studies, I would be very happy! 😀
 
 ---
 ## Mathematics
