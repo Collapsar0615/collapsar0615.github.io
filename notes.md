@@ -20,7 +20,7 @@ date: 2024-08-01 10:54 -0000
 
 ### Quantum Field Theory
 
-- [余钊焕,量子场论讲义,2024.07](https://collapsar0615.github.io/blogs/qft)
+- 余钊焕,量子场论讲义,2024.07
 
 ### General Relativity & Cosmology
 
